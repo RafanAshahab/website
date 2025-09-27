@@ -1,12 +1,19 @@
 body {
     background-color: black;
+    color: aliceblue;
 }
 .main {
     display: flex;
 }
+.main div{
+    flex: auto;
+    
+}
 .header1 {
-    color:white;
     font-size: 36pt;
     font-weight: bolder;
     text-align: center;
+}
+.Links {
+    font-size: 20pt;
 }
