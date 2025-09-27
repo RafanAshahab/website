@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.main {
+    display: flex;
+}
+.header1 {
+    color:white;
+    font-size: 36pt;
+    font-weight: bolder;
+    text-align: center;
+}
