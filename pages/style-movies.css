@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.main{
+   /* display: flex;*/
+}
+.header1{
+    font-size: 28pt;
+    font-weight: bolder;
+    text-align: center;
+}
+.list div{
+    font-size: 20pt;
+    font-weight: bolder;
+}
+img {
+   max-width: 100%;
+  height: auto;
+  align-content: center;
+
+}
+.main div{
+    flex: 1;
+}
