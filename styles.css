@@ -17,3 +17,17 @@ body {
 .Links {
     font-size: 20pt;
 }
+a {
+    color: khaki;
+    text-decoration: none;
+}
+a:visited {
+    color: skyblue;
+}
+a:hover{
+    color: darkslategray;
+    text-decoration: wavy;
+}
+a:active {
+    color: yellowgreen;
+}

@@ -20,6 +20,20 @@ img {
   align-content: center;
 
 }
+a {
+    color: khaki;
+    text-decoration: none;
+}
+a:visited {
+    color: skyblue;
+}
+a:hover{
+    color: darkslategray;
+    text-decoration: wavy;
+}
+a:active {
+    color: yellowgreen;
+}
 .main div{
     flex: 1;
 }
