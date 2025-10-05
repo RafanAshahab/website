@@ -14,6 +14,13 @@ body {
     font-weight: bolder;
     text-align: center;
 }
+blockquote {
+    font-size: 15pt;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+}
 .Links {
     font-size: 20pt;
 }
